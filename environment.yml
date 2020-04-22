@@ -18,3 +18,4 @@ dependencies:
   - nbconvert=5.6.0
   - pip:
       - geonamescache==1.1.0
+      - unidecode==1.1.1
